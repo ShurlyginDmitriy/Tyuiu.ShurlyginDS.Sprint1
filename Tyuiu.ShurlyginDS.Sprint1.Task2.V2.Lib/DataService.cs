@@ -7,6 +7,7 @@ namespace Tyuiu.ShurlyginDS.Sprint1.Task2.V2.Lib
         public double ConvertAngleToRad(int value)
         {
             double res = value * Math.PI / 180;
+
             return Math.Round(res, 3);
         }
     }
