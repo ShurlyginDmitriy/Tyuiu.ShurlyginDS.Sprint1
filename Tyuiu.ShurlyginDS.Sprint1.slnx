@@ -5,7 +5,7 @@
     <Project Path="Tyuiu.ShurlyginDS.Sprint1.Task0.V14/Tyuiu.ShurlyginDS.Sprint1.Task0.V14.csproj" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.ShurlyginDS.Sprint1.Task1.V1.Lib/Tyuiu.ShurlyginDS.Sprint1.Task1.V1.Lib.csproj" Id="4addf51d-5a1c-4872-8b62-361df7a8b90a" />
+    <Project Path="Tyuiu.ShurlyginDS.Sprint1.Task1.V1.Lib/Tyuiu.ShurlyginDS.Sprint1.Task1.V1.Lib.csproj" Id="5332be48-9afd-4ce1-9d7a-62d0d18fc16d" />
     <Project Path="Tyuiu.ShurlyginDS.Sprint1.Task1.V1.Test/Tyuiu.ShurlyginDS.Sprint1.Task1.V1.Test.csproj" Id="271835e5-e2ed-4203-9164-a2284e67b95a" />
     <Project Path="Tyuiu.ShurlyginDS.Sprint1.Task1.V1/Tyuiu.ShurlyginDS.Sprint1.Task1.V1.csproj" Id="8dd13fcc-c86f-4487-ab57-a476ec0d18cc" />
   </Folder>
