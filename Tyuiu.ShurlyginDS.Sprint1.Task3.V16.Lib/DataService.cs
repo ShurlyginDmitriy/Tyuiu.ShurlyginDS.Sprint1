@@ -7,6 +7,7 @@ namespace Tyuiu.ShurlyginDS.Sprint1.Task3.V16.Lib
         public double CoeffOfQuadraticEquation(double x1, double x2)
         {
             double b = -x1 - x2;
+
             return Math.Round(b, 3);
         }
     }
