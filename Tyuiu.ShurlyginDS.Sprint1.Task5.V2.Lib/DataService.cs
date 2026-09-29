@@ -7,7 +7,7 @@ namespace Tyuiu.ShurlyginDS.Sprint1.Task5.V2.Lib
         public int FahrenheitToСelsius(double temp)
         {
             double res = (temp - 32) * 5 / 9;
-            
+
             return Convert.ToInt32(res);
         }
     }
