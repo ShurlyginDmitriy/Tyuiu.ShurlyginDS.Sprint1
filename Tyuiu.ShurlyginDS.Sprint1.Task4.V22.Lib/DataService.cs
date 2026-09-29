@@ -7,6 +7,7 @@ namespace Tyuiu.ShurlyginDS.Sprint1.Task4.V22.Lib
         public double Calculate(double x, double y)
         {
             var res = Math.Sqrt(x * y) / (1 + Math.Pow(x + 2 * y, 2));
+
             return Math.Round(res, 3);
         }
     }
